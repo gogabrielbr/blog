@@ -5,7 +5,7 @@ description: "The strange and long tale of how I ended up from Rio de Janeiro to
 slug: "mypost"
 image: mypost.jpg
 date: 2018-02-19T08:18:12-05:00
-draft: true
+draft: false
 ---
 
 # Moving to New York 0#
