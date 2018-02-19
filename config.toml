@@ -3,6 +3,8 @@ baseURL = "https://gogabrielbr.github.io/"
 languageCode = "en-us"
 title = "ESTELA FOFINHA"
 theme = "forty"
+# tive que criar uma pastar "docs" no lugar do default "public" para o github reconhecer como uma página
+publishDir = "docs"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""

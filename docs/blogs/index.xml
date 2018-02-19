@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle on ESTELA FOFINHA</title>
+    <link>https://gogabrielbr.github.io/blogs/</link>
+    <description>Recent content in Lifestyle on ESTELA FOFINHA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://gogabrielbr.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Newpost07</title>
+      <link>https://gogabrielbr.github.io/blogs/newpost07/</link>
+      <pubDate>Mon, 19 Feb 2018 16:58:22 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blogs/newpost07/</guid>
+      <description>Hello World once again! It is time to try again and again I&amp;rsquo;ve been trying over and over to write this think properly.</description>
+    </item>
+    
+    <item>
+      <title>Moving to New York 0</title>
+      <link>https://gogabrielbr.github.io/blogs/mypost/</link>
+      <pubDate>Mon, 19 Feb 2018 08:18:12 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blogs/mypost/</guid>
+      <description>Moving to New York 0 My journey from Rio de Janeiro to the NYU This project is part of my master’s Thesis in Arts and Neuroscience, defended in 2017. I developed a Virtual Reality Experience in Unity to provide the Neurosciences lab to create specific subtle experiences in order to better understand how emotions work and how machines can capture them. Together with my teacher José Otávio, the project is going through extensive user testing, where volunteers go through this unsettling experience while wearing Empatica G4 Electrodermal sensors that transmit their neurological and biological data to an Ipad.</description>
+    </item>
+    
+    <item>
+      <title>Aliquam</title>
+      <link>https://gogabrielbr.github.io/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blogs/aliquam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempus</title>
+      <link>https://gogabrielbr.github.io/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magna</title>
+      <link>https://gogabrielbr.github.io/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blogs/magna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>https://gogabrielbr.github.io/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blogs/ipsum/</guid>
+      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+    </item>
+    
+  </channel>
+</rss>
