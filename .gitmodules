@@ -2,6 +2,3 @@
 	path = forty
 	url = https://github.com/MarcusVirg/forty.git
 
-	[submodule "gogabrielbr.github.io"]
-		path = gogabrielbrgithub.io
-		url = https://github.com/gogabrielbr/gogabrielbr.github.io.git
