@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://gogabrielbr.github.io/blog/"
 languageCode = "en-us"
-title = "ESTELA FOFINHA"
+title = "Homepage of Gabriel Brasil"
 theme = "forty"
 # tive que criar uma pastar "docs" no lugar do default "public" para o github reconhecer como uma página
 publishDir = "docs"
@@ -37,7 +37,7 @@ googleAnalytics = ""
   # Navigation Section
   [params.navigation]
     title = "Gabriel Brasil"
-    subtitle = "By HTML5 Up"
+    subtitle = "blog and creative portfolio"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -80,8 +80,8 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Gabriel Brasil, father of the amazing ESTELA!!!"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+    title = "Hi, my name is Gabriel Brasil, currently a NYU graudate student at the Interactive Telecommunications Program"
+    subtitle = "Pushing the creative boundaries of technology in unexpected and creative ways"
     buttonText = "Get Started"
 
 
