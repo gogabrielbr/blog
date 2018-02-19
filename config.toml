@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "gogabrielbr.github.io"
+baseURL = "https://gogabrielbr.github.io/"
 languageCode = "en-us"
 title = "ESTELA FOFINHA"
 theme = "forty"
