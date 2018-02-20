@@ -34,6 +34,24 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>ITP</title>
+      <link>https://gogabrielbr.github.io/blog/itp/</link>
+      <pubDate>Tue, 20 Feb 2018 13:00:21 -0700</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/itp/</guid>
+      <description>This is my ITP section Maybe I should add more things here</description>
+    </item>
+    
+    <item>
+      <title>ITP2</title>
+      <link>https://gogabrielbr.github.io/blog/itp2/</link>
+      <pubDate>Tue, 20 Feb 2018 13:50:43 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/itp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Newpost07</title>
       <link>https://gogabrielbr.github.io/blog/blogs/newpost07/</link>
       <pubDate>Mon, 19 Feb 2018 16:58:22 -0500</pubDate>
@@ -93,8 +111,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
       
       <guid>https://gogabrielbr.github.io/blog/about/</guid>
-      <description>Welcome to the Osprey Theme To create an about section, generate an about.md file in your content folder by doing:
-$ hugo new about.md  Then add your own content to the markdown file. Everything in the file will be generated to show here on the home page.</description>
+      <description>My name is Gabriel Brasil I&amp;rsquo;m a designer, journalist and technologist, mixing and matching the new with the unexpected. Currently a Graduate student at the NYU Interactive Telecommunications Program.
+This is some of the things I created for clients and personal projects</description>
     </item>
     
     <item>

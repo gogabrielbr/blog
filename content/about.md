@@ -4,12 +4,8 @@ date = "2017-06-27T17:39:21-07:00"
 draft = false
 +++
 
-## Welcome to the Osprey Theme
+## My name is Gabriel Brasil
 
-To create an about section, generate an about.md file in your content folder by doing:
+I'm a designer, journalist and technologist, mixing and matching the new with the unexpected. Currently a Graduate student at the NYU Interactive Telecommunications Program.
 
-```console
-$ hugo new about.md
-```
-
-Then add your own content to the markdown file. Everything in the file will be generated to show here on the home page.
+This is some of the things I created for clients and personal projects
