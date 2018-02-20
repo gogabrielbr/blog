@@ -2,3 +2,6 @@
 	path = forty
 	url = https://github.com/MarcusVirg/forty.git
 
+[submodule "themes/themes/osprey"]
+	path = themes/themes/osprey
+	url = https://github.com/tomanistor/osprey.git
