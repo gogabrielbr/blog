@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gogabrielbr.github.io/blog/blog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gogabrielbr.github.io/blog/blog/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gogabrielbr.github.io/blog/blogs/newpost07/</loc>
     <lastmod>2018-02-19T16:58:22-05:00</lastmod>
   </url>
@@ -38,25 +48,29 @@
   </url>
   
   <url>
-    <loc>https://gogabrielbr.github.io/blog/categories/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://gogabrielbr.github.io/blog/about/</loc>
+    <lastmod>2017-06-27T17:39:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gogabrielbr.github.io/blog/categories/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <loc>https://gogabrielbr.github.io/blog/blog/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gogabrielbr.github.io/blog/blog/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gogabrielbr.github.io/blog/blog/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gogabrielbr.github.io/blog/</loc>
-    <lastmod>2018-02-19T16:58:22-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gogabrielbr.github.io/blog/tags/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
