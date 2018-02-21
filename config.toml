@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 publishDir = "docs"
 
 [Params]
-    tagline = "Gabriel Brasil"
+    tagline = "works of Gabriel Brasil"
     author = "Gabriel Brasil"
     description = "Designer and Graduate Student at NYU - Interactive Telecommunications Program"
     logoBig = "/images/ejectnow.gif"
@@ -29,6 +29,7 @@ publishDir = "docs"
     credit = true
     customCSS = true
     cacheBustCSS = false
+    # original "cacheBustCSS" was set to "false"
     cacheBustJS = false
     ajaxFormspree = true
 

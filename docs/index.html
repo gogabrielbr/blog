@@ -48,6 +48,10 @@
 <style>
 
 @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding');
+
+@import url('https://fonts.googleapis.com/css?family=Bellefair');
+
+ 
 @import url("https://fonts.googleapis.com/css?family=Rubik|Bitter");
 @import "flexboxgrid";
 
@@ -61,11 +65,14 @@ $smoke: #F7F7F7;
 $accent: #DA784D;
 
 
-$font-header: 'Nanum Gothic Coding', monospace;
+$font-header: font-family: 'Bellefair', serif;
  
-$font-body: 'Nanum Gothic Coding', monospace;
  
-$font-code: "Menlo", "Monaco", "Andale Mono", "lucida console", "Courier New", monospace;
+$font-body: 'Bellefair', serif;
+ 
+ 
+$font-code:  'Bellefair', serif;
+ 
 
 
 
@@ -92,8 +99,11 @@ p: 1.1rem
 );
 
 $base-line-height: 1.6;
+
 $base-font-size: 1.25rem; 
+ 
 $vertical-rhythm: $base-line-height * $base-font-size; 
+ 
 
 $breakpoint-medium: 48em; 
 $breakpoint-small: 25em; 
@@ -160,7 +170,9 @@ background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
 }
 header {
   height: 100vh;
-  background-color: #FFF;
+   
+   
+  background-image: url(images/horizon-banner2.png);
   div { z-index: 101; }
   img { max-height: $vertical-rhythm * 6; }
   h1 { font-family: $font-body; }
@@ -227,6 +239,7 @@ background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
 }
 main {
 background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
+ 
   transform: translate(0px, 0px);
   transition: 0.25s ease-in;
 }
@@ -430,6 +443,7 @@ blockquote {
 .about {
   width: 100%;
   background-color: $smoke;
+  color: $black
   padding-bottom: $vertical-rhythm * 2;
   p {
     @include size(h3);
@@ -551,7 +565,7 @@ textarea {
 }
 footer {
   height: $vertical-rhythm * 6;
-  background-color: #e70fe2;
+  background-color: #2e007a;
   div, a {
     color: #e70fe2;
   }
@@ -575,7 +589,7 @@ footer {
                     <div class="col-xs-12"><img src="https://gogabrielbr.github.io/blog/images/ejectnow.gif" alt="Gabriel Brasil"></div>
                 </div>
                 <div class="row middle-xs center-xs">
-                    <div class="col-xs-12"><h1>Gabriel Brasil<span class="cursor">|</span></h1></div>
+                    <div class="col-xs-12"><h1>works of Gabriel Brasil<span class="cursor">|</span></h1></div>
                 </div>
             </div>
         </header>
