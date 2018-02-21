@@ -47,6 +47,7 @@
 <html lang="en">
 <style>
 
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding');
 @import url("https://fonts.googleapis.com/css?family=Rubik|Bitter");
 @import "flexboxgrid";
 
@@ -60,8 +61,10 @@ $smoke: #F7F7F7;
 $accent: #DA784D;
 
 
-$font-header: "Bitter", "Roboto Slab", "Cambria", Georgia, serif;
-$font-body: "Rubik", "Poppins", "Hel­vetica", Arial, sans-serif;
+$font-header: 'Nanum Gothic Coding', monospace;
+ 
+$font-body: 'Nanum Gothic Coding', monospace;
+ 
 $font-code: "Menlo", "Monaco", "Andale Mono", "lucida console", "Courier New", monospace;
 
 
@@ -146,11 +149,13 @@ $breakpoint-small: 25em;
 html {
   box-sizing: inherit;
   overflow-x: hidden;
+
 }
 body {
   @include size(p);
   font-family: $font-body;
   line-height: $base-line-height;
+background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
   color: $black;
 }
 header {
@@ -168,7 +173,7 @@ header {
 nav {
   height: $vertical-rhythm * 2;
   width: 100%;
-  background-color: #FFF;
+background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
   position: absolute;
   bottom: 0;
   z-index: 100;
@@ -179,7 +184,7 @@ nav {
     font-family: $font-body;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-weight: 600;
+    font-weight: 400;
   }
   img {
     display: inline-block;
@@ -221,7 +226,7 @@ nav {
   transform: translate(-100vw, 0px);
 }
 main {
-  background-color: #fff;
+background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
   transform: translate(0px, 0px);
   transition: 0.25s ease-in;
 }
