@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>true</copyright>
-    <lastBuildDate>Mon, 15 May 2017 22:25:16 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 22:27:13 -0500</lastBuildDate>
     
 	<atom:link href="https://gogabrielbr.github.io/blog/gallery/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post02</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/post02/</link>
+      <pubDate>Tue, 20 Feb 2018 22:27:13 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/post02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post03</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/post03/</link>
+      <pubDate>Tue, 20 Feb 2018 22:27:09 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/post03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post04</title>
+      <link>https://gogabrielbr.github.io/blog/gallery/post04/</link>
+      <pubDate>Tue, 20 Feb 2018 22:27:03 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/gallery/post04/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Toma Nistor</title>

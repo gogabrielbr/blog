@@ -34,6 +34,34 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>MeuPost</title>
+      <link>https://gogabrielbr.github.io/blog/blog/meupost/</link>
+      <pubDate>Tue, 20 Feb 2018 22:28:11 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/meupost/</guid>
+      <description> ITP 2019 This is my post about ITP stuff
+ Class 1 Class 2  Class 2a Class 2b  Class 3  </description>
+    </item>
+    
+    <item>
+      <title>Post00</title>
+      <link>https://gogabrielbr.github.io/blog/blog/post00/</link>
+      <pubDate>Tue, 20 Feb 2018 22:27:52 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/post00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post02</title>
+      <link>https://gogabrielbr.github.io/blog/blog/post02/</link>
+      <pubDate>Tue, 20 Feb 2018 22:27:44 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/post02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teste01</title>
       <link>https://gogabrielbr.github.io/blog/blog/teste01/</link>
       <pubDate>Tue, 20 Feb 2018 22:12:31 -0500</pubDate>
