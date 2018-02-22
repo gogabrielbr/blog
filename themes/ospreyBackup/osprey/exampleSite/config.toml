@@ -1,35 +1,34 @@
-title = "Gabriel Brasil"
-baseURL = "https://gogabrielbr.github.io/blog/"
-tags = ["portfolio", "technology", "blog"]
+title = "Osprey Example Site"
+baseURL = "https://tomanistor.com"
+tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
-disqusShortname = "gogabrielbrasil"
+disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 #GABRIEL Changes default from "public" to  githubs "docs" folder
-publishDir = "docs"
+publishDir = "docs"s
 
 [Params]
-    tagline = "works of Gabriel Brasil"
-    author = "Gabriel Brasil"
-    description = "Designer and Graduate Student at NYU - Interactive Telecommunications Program"
-    logoBig = "/images/ejectnow.gif"
-    logoSmall = "/images/ejectnow-banner-03.png"
+    tagline = "Osprey Example Site"
+    author = "Toma Nistor"
+    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+    logoBig = "/images/osprey-logo.png"
+    logoSmall = "/images/osprey-logo.png"
     favicon = "favicon.ico"
-    opengraphImage = "/images/ejectnow-banner-03.png"
+    opengraphImage = "/images/osprey.png"
     twitter = "TomaNistor"
     linkedin = "tomanistor"
-    github = "gogabrielbr"
-    email = "gmg384@nyu.edu"
+    github = "tomanistor"
+    email = ""
     googleTagManger = ""
     highlightJS = true
     copyright = true
     credit = true
-    customCSS = true
+    customCSS = false
     cacheBustCSS = false
-    # original "cacheBustCSS" was set to "false"
     cacheBustJS = false
     ajaxFormspree = true
 
@@ -48,8 +47,4 @@ publishDir = "docs"
 [[menu.main]]
     name = "Contact"
     url  = "/#contact"
-    weight = 4
-[[menu.main]]
-    name = "ITP"
-    url  = "pages/itp"
     weight = 4

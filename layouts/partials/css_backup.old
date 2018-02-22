@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css?family=Bellefair');
 
 /* Gabriel = Nanum */
-/* @import url("https://fonts.googleapis.com/css?family=Rubik|Bitter"); */
+@import url("https://fonts.googleapis.com/css?family=Rubik|Bitter");
 @import "flexboxgrid";
 
 // TODO: Cleanup
@@ -20,7 +20,7 @@ $smoke: #F7F7F7;
 $accent: #DA784D;
 
 // Fonts
-$font-header: font-family: 'Nanum Gothic Coding', 'Bellefair', serif;
+$font-header: font-family: 'Bellefair', serif;
 /* 'Nanum Gothic Coding'; */
 /* "Roboto Slab", "Cambria", "Bitter",  Georgia, serif; */
 $font-body: 'Bellefair', serif;

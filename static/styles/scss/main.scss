@@ -1,13 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
-<style>
-
-@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding');
-
-@import url('https://fonts.googleapis.com/css?family=Bellefair');
-
-/* Gabriel = Nanum */
-/* @import url("https://fonts.googleapis.com/css?family=Rubik|Bitter"); */
+@import url("https://fonts.googleapis.com/css?family=Rubik|Bitter");
 @import "flexboxgrid";
 
 // TODO: Cleanup
@@ -20,14 +11,9 @@ $smoke: #F7F7F7;
 $accent: #DA784D;
 
 // Fonts
-$font-header: font-family: 'Nanum Gothic Coding', 'Bellefair', serif;
-/* 'Nanum Gothic Coding'; */
-/* "Roboto Slab", "Cambria", "Bitter",  Georgia, serif; */
-$font-body: 'Bellefair', serif;
-/* 'Nanum Gothic Coding', monospace; */
-/* "Rubik", "Poppins", "Hel­vetica", Arial, sans-serif; */
-$font-code:  'Bellefair', serif;
-/* "Menlo", "Monaco", "Andale Mono", "lucida console", "Courier New", monospace; */
+$font-header: Georgia, serif;
+$font-body:  Arial, sans-serif;
+$font-code: "Menlo", "Monaco", "Andale Mono", "lucida console", "Courier New", monospace;
 
 // Modular font scale
 // Large: http://www.modularscale.com/?1.25&em&1.333&web&text
@@ -54,11 +40,8 @@ p: 1.1rem
 );
 
 $base-line-height: 1.6;
-
-$base-font-size: 1.25rem; // 5px
-/* $base-font-size: 1.25rem; // 20px */
-$vertical-rhythm: $base-line-height * $base-font-size; // 2.125em or 12px
-/* $vertical-rhythm: $base-line-height * $base-font-size; // 2.125em or 34px */
+$base-font-size: 1.25rem; // 20px
+$vertical-rhythm: $base-line-height * $base-font-size; // 2.125em or 34px
 
 $breakpoint-medium: 48em; // 768px
 $breakpoint-small: 25em; // 400px
@@ -114,20 +97,16 @@ $breakpoint-small: 25em; // 400px
 html {
   box-sizing: inherit;
   overflow-x: hidden;
-
 }
 body {
   @include size(p);
   font-family: $font-body;
   line-height: $base-line-height;
-background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
   color: $black;
 }
 header {
   height: 100vh;
-  /* background-color: #f2e6e6; */
-  /* background-color: #FFF; */
-  background-image: url(images/horizon-banner2.png);
+  background-color: #FFF;
   div { z-index: 101; }
   img { max-height: $vertical-rhythm * 6; }
   h1 { font-family: $font-body; }
@@ -140,7 +119,7 @@ header {
 nav {
   height: $vertical-rhythm * 2;
   width: 100%;
-background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
+  background-color: #FFF;
   position: absolute;
   bottom: 0;
   z-index: 100;
@@ -151,7 +130,7 @@ background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
     font-family: $font-body;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-weight: 400;
+    font-weight: 600;
   }
   img {
     display: inline-block;
@@ -193,8 +172,7 @@ background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
   transform: translate(-100vw, 0px);
 }
 main {
-background: linear-gradient(to bottom, #f2f484 1%,#f45555 67%,#05abe0 99%);
-/* orginal background was white */
+  background-color: #fff;
   transform: translate(0px, 0px);
   transition: 0.25s ease-in;
 }
@@ -398,7 +376,6 @@ blockquote {
 .about {
   width: 100%;
   background-color: $smoke;
-  color: $black
   padding-bottom: $vertical-rhythm * 2;
   p {
     @include size(h3);
@@ -520,12 +497,8 @@ textarea {
 }
 footer {
   height: $vertical-rhythm * 6;
-  background-color: #2e007a;
+  background-color: $black;
   div, a {
-    color: #e70fe2;
+    color: #FFF;
   }
 }
-
-</style>
-
-</html>
