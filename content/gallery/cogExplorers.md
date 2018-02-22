@@ -6,5 +6,5 @@ alt = "Cognitive Explorers"
 color = "#2d1d1d3"
 link1 = "/blog/cogexplorers/"
 link2 = ""
-draft = true
+draft = false
 +++

@@ -2,7 +2,7 @@
 title = "Eject Now"
 date = 2018-02-22T16:23:58-05:00
 description = "Personal Web Page design"
-draft = true
+draft = false
 +++
 
 ## Creating this website ##

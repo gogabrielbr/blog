@@ -6,5 +6,5 @@ alt = "Eject Now Gallery"
 color = "#5923"
 link1 = "/blog/ejectnow/"
 link2 = ""
-draft = true
+draft = false
 +++

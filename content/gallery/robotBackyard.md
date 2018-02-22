@@ -1,10 +1,11 @@
 +++
-title = "RobotBackyard"
-date = 2018-02-22T15:47:22-05:00
+date = "2017-05-15T22:25:02-07:00"
+title = "Robot Backyard"
 image = "RobotHouse.jpg"
-alt = "Robot RobotBackyard"
-color = "#444"
-link1 = "/blog/robot"
-link2 = ""
-draft = true
+alt = "Robot Backyard"
+color = "#737373"
+link1 = "/blog/post02"
+link2 = "https://github.com/spf13/hugo"
+
 +++
+#666666

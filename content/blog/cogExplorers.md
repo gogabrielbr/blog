@@ -2,7 +2,7 @@
 title = "Cognitive Explorers"
 date = 2018-02-22T16:30:09-05:00
 description = "Master Thesis in Arts and Neurosciences"
-draft = true
+draft = false
 +++
 
 
