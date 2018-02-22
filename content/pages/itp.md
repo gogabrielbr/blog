@@ -1,7 +1,7 @@
 ---
 title: "ITP"
 date: 2018-02-22T10:20:45-05:00
-draft: true
+draft: fase
 ---
 
 ## This is a page about ME at ITP! ##
