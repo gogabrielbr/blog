@@ -894,6 +894,7 @@
 
 // @import "flexboxgrid";
 @import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300i|Nanum+Gothic+Coding');
 
 
 
@@ -905,9 +906,14 @@ $storm: #4E6B6C;
 $smoke: #F7F7F7;
 $accent: #DA784D;
 
+//Gabriel coolors
+$head: #fff50d;
+
 // Fonts
-$font-header: 'Oswald', sans-serif;
-$font-body: 'Oswald', sans-serif;
+$font-header: 'Oswald', "Helvetica", "Arial", sans-serif;
+$font-navGab: 'Montserrat', "Verdana", "Tahoma", sans-serif;
+ // 'Nanum Gothic Coding', monospace;
+$font-body: 'Oswald', "Helvetica", "Arial", sans-serif;
 $font-code: "Menlo", "Monaco", "Andale Mono", "lucida console", "Courier New", monospace;
 
 // Modular font scale
@@ -1002,16 +1008,19 @@ body {
 }
 header {
   height: 100vh;
-	  background-image: url(/blog/images/horizon-banner2.png);
-  background-color: #db2525;
+	background-image: url(/blog/images/horizon-banner2.png);
+  background-color: #fff;
 	div { z-index: 101; }
   img { max-height: $vertical-rhythm * 6; }
-  h1 { font-family: $font-body; }
+  h1 { font-family: $font-navGab;
+			color: $head;
+			//Gabriel: changed the font color from "font-body" to custom made
+	}
   .cursor { animation: 1s blink step-end infinite; }
 }
 @keyframes "blink" {
   from, to { color: transparent; }
-  50% { color: $black; }
+  50% { color: $head; }
 }
 nav {
   height: $vertical-rhythm * 2;
@@ -1047,7 +1056,20 @@ nav {
   position: fixed;
   top: 0;
   bottom: auto;
+
+	// Gabriel: added different color for fixed menu
+	background-color: #ff791b;
+background-image: linear-gradient(180deg, #ff791b 0%, #d049e7 62%, #360caf 100%);
+transition: 0.25s ease-out;
+//Gabriel: Added code bellow to change font color inside nav-fixed.
+a {
+	color: #FFF;
+	&:hover {
+		color: $accent;
+	}
 }
+}
+
 .nav-full {
   position: fixed;
   top: 0;
@@ -1055,7 +1077,10 @@ nav {
   width: 100vw;
   right: -100vw;
   height: 100%;
-  background-color: $black;
+  // background-color: $black;
+	background-color: #ff791b;
+background-image: linear-gradient(180deg, #ff791b 0%, #d049e7 62%, #360caf 100%);
+
   transform: translate(0px, 0px);
   transition: 0.25s ease-out;
   a {
@@ -1069,12 +1094,17 @@ nav {
   transform: translate(-100vw, 0px);
 }
 main {
-  background-color: #fff;
+  // background-color: #fff;
+	//Gradient from grabient.com
+	background-color: #ff7417;
+background-image: linear-gradient(180deg, #ff7417 0%, #c21ed4 62%, #5e25ff 100%);
+
   transform: translate(0px, 0px);
   transition: 0.25s ease-in;
 }
 main.active {
   transform: translate(-100vw, 0px);
+	background-color: #fff
 }
 .container {
   max-width: 43.750rem; // 700px
@@ -1220,6 +1250,8 @@ blockquote {
 .content {
   text-align: left;
   width: 100%;
+	//gab adding background Color. Need padding though
+	// background-color: #fff;
   time {
     margin-left: 3px;
   }

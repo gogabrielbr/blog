@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 publishDir = "docs"
 
 [Params]
-    tagline = "works of Gabriel Brasil"
+    tagline = "Eject Now"
     author = "Gabriel Brasil"
     description = "Designer and Graduate Student at NYU - Interactive Telecommunications Program"
     logoBig = "/images/ejectnow.gif"
