@@ -1,3 +1,5 @@
+<!--GABRIEL: This file was modified to change the order of blog posts from "first" to "last"   -->
+
 <section class="blog" id="blog">
     <div class="container">
         <div class="row center-xs">
@@ -5,7 +7,8 @@
         </div>
         <div class="row">
             <div class="col-xs-12 posts-list">
-                {{ range first 5 (where .Data.Pages "Section" "blog") }}
+                {{ range last 5 (where .Data.Pages "Section" "blog") }}
+                <!-- Gabriel: modified from "first" to "last": to show last published blogs first. -->
                     <article>
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                         <div class=sub-header>

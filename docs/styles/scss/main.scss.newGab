@@ -1,5 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Rubik|Bitter");
+
 @import "flexboxgrid";
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
 
 // TODO: Cleanup
 
@@ -11,8 +13,8 @@ $smoke: #F7F7F7;
 $accent: #DA784D;
 
 // Fonts
-$font-header: Georgia, serif;
-$font-body:  Arial, sans-serif;
+$font-header: 'Oswald', sans-serif;
+$font-body: 'Oswald', sans-serif;
 $font-code: "Menlo", "Monaco", "Andale Mono", "lucida console", "Courier New", monospace;
 
 // Modular font scale

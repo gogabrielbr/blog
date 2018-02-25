@@ -9,7 +9,7 @@ draft: false
 My name is Gabriel Brasil and I'm trying to make a working website using HUGO.
 
 ### SPRING 2018 ###
-* [Future Scenarios and Systems Thinking](../blog/pages/classes/future-scenarios)
+* [Future Scenarios and Systems Thinking](../blog/pages/classes/futures/future-scenarios)
 * [DWD Servers](../blog/pages/classes/future-scenarios)
 * [Mashups API](../blog/pages/classes/future-scenarios)
 * [Reading and Writing Electronic Text](../blog/pages/classes/future-scenarios)
