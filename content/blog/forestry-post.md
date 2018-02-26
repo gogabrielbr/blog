@@ -3,7 +3,6 @@ author = "Gabriel Brasil"
 categories = []
 date = "2018-02-25T20:58:09+00:00"
 description = "This is my first post using Forestry.io"
-draft = true
 linktitle = ""
 next = ""
 prev = ""
