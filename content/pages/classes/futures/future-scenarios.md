@@ -1,9 +1,8 @@
 ---
-title: "Future Scenarios"
-date: 2018-02-22T12:09:12-05:00
-draft: false
----
+title: Future Scenarios
+date: 2018-02-22 12:09:12 -0500
 
+---
 ## This is my post on Future Scenarios and System Thinking classes ##
 
 *The art of the long view* is a remarkable short book.

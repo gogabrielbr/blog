@@ -1,7 +1,7 @@
 +++
 author = "Gabriel Brasil"
 categories = []
-date = "2018-02-25T20:58:09+00:00"
+date = "2018-02-25T20:58:09Z"
 description = "This is my first post using Forestry.io"
 linktitle = ""
 next = ""

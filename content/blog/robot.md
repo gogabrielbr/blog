@@ -1,11 +1,9 @@
 +++
-title = "Robot Backyard"
-date = 2018-02-22T16:05:49-05:00
+date = "2018-02-22T16:05:49-05:00"
 description = "Concept Art"
-draft = false
+title = "Robot Backyard"
+
 +++
-
-
 ## Concept Art and 3D modeling ##
 
 **Robot Backyard** is an ongoing multimedia project.  

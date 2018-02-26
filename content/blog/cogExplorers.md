@@ -1,11 +1,9 @@
 +++
-title = "Cognitive Explorers"
-date = 2018-02-22T16:30:09-05:00
+date = "2018-02-22T16:30:09-05:00"
 description = "Master Thesis in Arts and Neurosciences"
-draft = false
+title = "Cognitive Explorers"
+
 +++
-
-
 ## Master Thesis in Arts and Neurosciences - UFRJ 2017 ##
 
 **Cognitive Explorers** was an experiment run during my master thesis in Arts and Neurosciences. For it I created a custom made Virtual Reality experience to be used with Neurophysiological data in order to discover how complex emotions are processed in the brain.  
