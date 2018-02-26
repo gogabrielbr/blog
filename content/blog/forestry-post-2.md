@@ -1,7 +1,18 @@
 +++
+author = ""
+categories = []
 date = "2018-02-25T21:43:37+00:00"
-description = ""
+description = "A second Forestry Post"
 draft = true
+linktitle = ""
+next = ""
+prev = ""
+tags = []
 title = "Forestry post 2"
+type = ""
+weight = ""
 
 +++
+This my second FORESTRY POST
+
+![](/uploads/2018/02/26/Bigscreen_Screenshot.png)
