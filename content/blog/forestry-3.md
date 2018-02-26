@@ -1,14 +1,13 @@
 +++
 author = ""
 categories = []
-date = "2018-02-25T21:54:00+00:00"
+date = "2018-02-25T21:54:00Z"
 description = ""
 linktitle = "forestry3"
 next = ""
 prev = ""
 tags = []
 title = "Forestry 3"
-type = ""
 weight = ""
 
 +++
