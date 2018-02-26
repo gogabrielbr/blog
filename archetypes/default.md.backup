@@ -1,7 +1,0 @@
-# Gabriel: For some reason, the theme changed posts from TOML (+++  +++) to YAML (--- ---).
-
----
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-draft: false
----
