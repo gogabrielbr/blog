@@ -1,55 +1,51 @@
-title = "Gabriel Brasil"
 baseURL = "https://gogabrielbr.github.io/blog/"
-tags = ["portfolio", "technology", "blog"]
-languageCode = "en-US"
-config = "config.toml"
-theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
+config = "config.toml"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 disqusShortname = "gogabrielbrasil"
-disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
-#GABRIEL Changes default from "public" to  githubs "docs" folder
+googleAnalytics = ""
+languageCode = "en-US"
 publishDir = "docs"
-
-[Params]
-    tagline = "Eject Now"
-    author = "Gabriel Brasil"
-    description = "Designer and Graduate Student at NYU - Interactive Telecommunications Program"
-    logoBig = "/images/ejectnow.gif"
-    logoSmall = "/images/ejectnow-banner-03.png"
-    favicon = "favicon.ico"
-    opengraphImage = "/images/ejectnow-banner-03.png"
-    twitter = "TomaNistor"
-    linkedin = "tomanistor"
-    github = "gogabrielbr"
-    email = "gmg384@nyu.edu"
-    googleTagManger = ""
-    highlightJS = true
-    copyright = true
-    credit = true
-    customCSS = true
-    cacheBustCSS = false
-    # original "cacheBustCSS" was set to "false"
-    cacheBustJS = false
-    ajaxFormspree = true
-
+tags = ["portfolio", "technology", "blog"]
+theme = "osprey"
+title = "Gabriel Brasil"
 [[menu.main]]
-    name = "About"
-    url  = "/#about"
-    weight = 1
+name = "ITP"
+url = "pages/itp"
+weight = 4
 [[menu.main]]
-    name = "Work"
-    url  = "/#work"
-    weight = 2
+name = "Contact"
+url = "/#contact"
+weight = 4
 [[menu.main]]
-    name = "Blog"
-    url  = "/#blog"
-    weight = 3
+name = "Blog"
+url = "/#blog"
+weight = 3
 [[menu.main]]
-    name = "Contact"
-    url  = "/#contact"
-    weight = 4
+name = "Work"
+url = "/#work"
+weight = 2
 [[menu.main]]
-    name = "ITP"
-    url  = "pages/itp"
-    weight = 4
+name = "About"
+url = "/#about"
+weight = 1
+[params]
+ajaxformspree = true
+author = "Gabriel Brasil"
+cachebustcss = false
+cachebustjs = false
+copyright = true
+credit = true
+customcss = true
+description = "Designer and Graduate Student at NYU - Interactive Telecommunications Program"
+email = "gmg384@nyu.edu"
+favicon = "favicon.ico"
+github = "gogabrielbr"
+googletagmanger = ""
+highlightjs = true
+linkedin = "tomanistor"
+logobig = "/images/ejectnow.gif"
+logosmall = "/images/ejectnow-banner-03.png"
+opengraphimage = "/images/ejectnow-banner-03.png"
+tagline = "Eject Now"
+twitter = "gabrasil"
