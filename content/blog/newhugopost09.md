@@ -1,11 +1,10 @@
 +++
-title = "Newhugopost09"
-date = 2018-02-26T15:21:04-05:00
+date = "2018-02-26T15:21:04-05:00"
 description = ""
 draft = true
+title = "Newhugopost09"
+
 +++
-
-
 ## This post was created directly on HUGO ##
 ### Want to learn what makes something show up on the blog list homepage ###
 
