@@ -1,32 +1,13 @@
-author = ""
-categories =
-date = "2014-04-02T00:00:36+00:00"
++++
+title = "Newhugopost09"
+date = 2018-02-26T15:21:04-05:00
 description = ""
-linktitle = ""
-next = ""
-prev = ""
-tags = ["go", "golang", "hugo", "development"]
-title = "My forestry mobile post"
-weight = ""
+draft = true
++++
 
 
-
-
-<!-- +++
-author = "Gabriel"
-categories = []
-date = "2018-02-26T14:20:36+00:00"
-description = "This is a mobile test"
-linktitle = ""
-next = ""
-prev = ""
-tags = []
-title = "My forestry mobile post"
-type = ""
-weight = ""
-
-+++ -->
-I’m trying to post using forestry
+## This post was created directly on HUGO ##
+### Want to learn what makes something show up on the blog list homepage ###
 
 ![Vanilla and berry cake](/uploads/2018/02/26/039C0AD9-75A4-4589-8828-9D2C91A89A73.jpeg "Vanilla and berry cake")
 
@@ -34,7 +15,7 @@ I’m trying to post using forestry
 
 ![](/uploads/2018/02/26/00F3B4DB-7B24-4483-A3AD-3DA7272BE79D.jpeg)
 
-<!-- +++
++++
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
 description = ""
@@ -53,4 +34,4 @@ tags = ["go", "golang", "hugo", "development"]
 title = "Getting Started with Hugo"
 weight = ""
 
-+++ -->
++++
