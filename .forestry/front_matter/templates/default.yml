@@ -1,6 +1,4 @@
 ---
-pages:
-- blog/forestry-6.md
 hide_body: false
 fields:
 - name: title
