@@ -1,5 +1,5 @@
 +++
-date = "2018-02-26T18:42:25+00:00"
+date = "2018-02-26T18:42:25Z"
 description = ""
 title = "forestry 6"
 
