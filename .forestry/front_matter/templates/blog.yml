@@ -61,3 +61,7 @@ fields:
   type: boolean
   hidden: false
   default: false
+- type: file
+  name: thumb
+  label: Thumbnail
+  description: Thumbnail on blog list
