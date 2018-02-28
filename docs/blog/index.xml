@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Gabriel Brasil</title>
+    <link>https://gogabrielbr.github.io/blog/blog/</link>
+    <description>Recent content in Blogs on Gabriel Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Mon, 26 Feb 2018 19:34:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://gogabrielbr.github.io/blog/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>forestry 9 Repo post</title>
+      <link>https://gogabrielbr.github.io/blog/blog/forestry-9-repo-post/</link>
+      <pubDate>Mon, 26 Feb 2018 19:34:24 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/forestry-9-repo-post/</guid>
+      <description>This post was created with the Repo Forestry option (instead of the github pages option)</description>
+    </item>
+    
+    <item>
+      <title>forestry 8</title>
+      <link>https://gogabrielbr.github.io/blog/blog/forestry-8/</link>
+      <pubDate>Mon, 26 Feb 2018 19:21:49 +0000</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/forestry-8/</guid>
+      <description> This is Forestry 8 </description>
+    </item>
+    
+    <item>
+      <title>Cognitive Explorers</title>
+      <link>https://gogabrielbr.github.io/blog/blog/cogexplorers/</link>
+      <pubDate>Thu, 22 Feb 2018 16:30:09 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/cogexplorers/</guid>
+      <description>Master Thesis in Arts and Neurosciences - UFRJ 2017 Cognitive Explorers was an experiment run during my master thesis in Arts and Neurosciences. For it I created a custom made Virtual Reality experience to be used with Neurophysiological data in order to discover how complex emotions are processed in the brain.</description>
+    </item>
+    
+    <item>
+      <title>Eject Now</title>
+      <link>https://gogabrielbr.github.io/blog/blog/ejectnow/</link>
+      <pubDate>Thu, 22 Feb 2018 16:23:58 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/ejectnow/</guid>
+      <description>Creating this website Eject Now is an ever changing web design playground where I showcase some of my work.
+Created in Illustrator FORESTRY TEST</description>
+    </item>
+    
+    <item>
+      <title>Robot Backyard</title>
+      <link>https://gogabrielbr.github.io/blog/blog/robot/</link>
+      <pubDate>Thu, 22 Feb 2018 16:05:49 -0500</pubDate>
+      
+      <guid>https://gogabrielbr.github.io/blog/blog/robot/</guid>
+      <description> Concept Art and 3D modeling Robot Backyard is an ongoing multimedia project.
+Drawn with paper and ink. Color in Photoshop </description>
+    </item>
+    
+  </channel>
+</rss>
