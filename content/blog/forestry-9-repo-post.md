@@ -1,14 +1,13 @@
 +++
 author = ""
 categories = []
-date = "2018-02-26T19:34:24+00:00"
+date = "2018-02-26T19:34:24Z"
 description = ""
 linktitle = ""
 next = ""
 prev = ""
 tags = []
 title = "forestry 9 Repo post"
-type = ""
 weight = ""
 
 +++
