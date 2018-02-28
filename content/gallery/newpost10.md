@@ -1,10 +1,11 @@
 +++
-title = "Newpost10"
-date = 2018-02-27T23:14:03-05:00
-image = ""
 alt = ""
 color = ""
+date = "2018-02-27T23:14:03-05:00"
+draft = true
+image = ""
 link1 = ""
 link2 = ""
-draft = true
+title = "Newpost10"
+
 +++

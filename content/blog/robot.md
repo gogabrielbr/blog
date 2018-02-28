@@ -1,8 +1,9 @@
 +++
 date = "2018-02-22T16:05:49-05:00"
 description = "Concept Art"
-title = "Robot Backyard"
 featured_image = ""
+title = "Robot Backyard"
+
 +++
 ## Concept Art and 3D modeling ##
 
