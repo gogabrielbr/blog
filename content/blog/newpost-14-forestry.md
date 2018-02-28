@@ -1,15 +1,15 @@
 +++
 author = ""
 categories = []
-date = "2018-02-28T10:42:18Z"
+date = "2018-02-28T10:42:18+00:00"
 description = ""
-draft = true
 featured_image = "/uploads/2018/02/26/Artboard 5 copy 18.png"
 linktitle = ""
 next = ""
 prev = ""
 tags = []
 title = "NewPost 14 forestry"
+type = ""
 weight = ""
 
 +++
