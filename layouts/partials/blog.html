@@ -7,10 +7,13 @@
         </div>
         <div class="row">
             <div class="col-xs-12 posts-list">
-                {{ range last 5 (where .Data.Pages "Section" "blog") }}
+                {{ range first 5 (where .Data.Pages "Section" "blog") }}
                 <!-- Gabriel: modified from "first" to "last": to show last published blogs first. -->
                     <article>
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                        <h3>{{ .Description}}</h3>
+                         <p><img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}"></p>
+<!-- Gabriel: picked this code from https://discourse.gohugo.io/t/post-featured-image/864/5 -->
                         <div class=sub-header>
                           {{ .Date.Format (.Site.Params.dateform | default "January 2006") }} · {{ .ReadingTime }} minute read
                         </div>
